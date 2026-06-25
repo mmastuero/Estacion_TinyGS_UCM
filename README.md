@@ -4,7 +4,7 @@ Este repositorio contiene el material de programación y los conjuntos de datos 
 
 ## Contenido del Repositorio
 
-El repositorio se compone de los siguientes archivos de análisis de datos y sus correspondientes bases de datos exportadas de la estación:
+El repositorio contiene los archivos de las medidas de los parametros S11 de las distintas antenas construidas además de los siguientes archivos de análisis de datos y sus correspondientes bases de datos exportadas de la estación para dos periodos:
 
 * **Primer periodo de evaluación:**
     * `Extraccion_datos_periodo1.m`: *Script* de MATLAB encargado del procesado y filtrado de las métricas de recepción.
